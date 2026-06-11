@@ -13,7 +13,7 @@ classifiers = [
 
 [dependency-groups]
 dev = [
-  "kreuzberg>=4.9.7",
+  "kreuzberg>=4.9.9",
   "llama-index-core>=0.14.22,<0.15",
   "mypy>=2.1.0",
   "pre-commit>=4.6",
@@ -21,7 +21,7 @@ dev = [
   "pytest>=9.0.3",
   "pytest-asyncio>=1.4.0",
   "pytest-cov>=7.1",
-  "ruff>=0.15.15",
+  "ruff>=0.15.16",
 ]
 
 [tool.ruff]
